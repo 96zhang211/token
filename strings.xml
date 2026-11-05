@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">鲸鱼余额</string>
+    <string name="widget_name">DeepSeek 余额</string>
+    <string name="widget_title">DeepSeek 余额</string>
+    <string name="setup_hint">第一次用先填 API Key，填完去桌面添加小组件就好啦</string>
+    <string name="key_hint">sk-...</string>
+    <string name="save">存好啦</string>
+    <string name="pet_summon">召唤鲸鱼娘到桌面</string>
+</resources>
